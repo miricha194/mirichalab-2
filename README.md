@@ -1,2 +1,2 @@
 # mirichalab-2
-aim lab をつくりたい
+aim lab + 脳汁　をつくりたい
